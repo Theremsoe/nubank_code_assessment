@@ -1,0 +1,6 @@
+#!./venv/bin/python
+
+from app.cli.capital_gains import capital_gains_cli
+
+if __name__ == '__main__':
+    capital_gains_cli()
